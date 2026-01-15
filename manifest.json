@@ -2,9 +2,10 @@
   "version": "1.0.0",
   "enabled": true,
   "payload_url": "https://raw.githubusercontent.com/karbi2121-debug/theUpdate/refs/heads/main/encrypted_payload.bin",
-  "payload_sha256": "568e5243359fe73a23a2cf820d04aa8760248653a2ed918d719c689e5eeaa5ea"
+  "payload_sha256": "97934ad9cee3243afe1f7993dd5f68da594ca783de28eb21dd081f05492394a3"
 
 }
+
 
 
 
